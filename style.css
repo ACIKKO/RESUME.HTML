@@ -1,0 +1,607 @@
+.shadow {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 340px;
+    height: 39px;
+    left: 1000px;
+    top: 34px;
+    
+    background: #FFFFFF;
+    border: 1px solid #C8B8B8;
+    box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.h1 {
+    position: absolute;
+width: 670px;
+height: 15px;
+left: 20px;
+top: 1px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 24px;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+}
+.intro {
+    position: absolute;
+width: 83px;
+height: 15px;
+left: 200px;
+top: 4px;
+
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 20px;
+font-size: 15px;
+line-height: 30px;
+
+color: #0500FF;
+}
+.border1 {
+    position: absolute;
+width: 1440px;
+height: 53px;
+left: 0px;
+top: 108px;
+
+background: #0300A2;
+}
+.border2 {
+    position: absolute;
+width: 1440px;
+height: 53px;
+left: 0px;
+top: 161px;
+
+background: #579AFF;
+}
+
+.logo1{
+    position: absolute;
+width: 306px;
+height: 68px;
+left: 100px;
+top: 233px;
+
+
+}
+.logo2 {
+    position: absolute;
+    width: 332px;
+    height: 68px;
+    left: 384px;
+    top: 233px;
+    
+
+}
+.logo3{
+    position: absolute;
+    width: 325px;
+    height: 68px;
+    left: 716px;
+    top: 233px;
+    
+ 
+}
+.logo4 {
+    position: absolute;
+width: 294px;
+height: 68px;
+left: 1048px;
+top: 233px;
+
+}
+.img-fluid {
+    position: absolute !important;
+width: 1240px !important;
+height: 430px !important;
+left: 100px !important;
+top: 320px !important;
+}
+
+.fs-1 {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-style:unset !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 30px !important;
+    margin: 10px !important;
+    color: #ffffff !important;
+}
+.fs-2 {
+    position: absolute !important;
+    width: 43px !important;
+    height: 15px !important;
+    left: 205px !important;
+    top: 2px !important ;
+    margin: 10px !important;
+
+     font-family: Arial, Helvetica, sans-serif !important;
+     font-style:unset !important;
+     font-weight: 700 !important;
+     font-size: 15px !important;
+     line-height: 30px !important;
+    color: #ffffff !important;
+}
+.fs-3 {
+    position: absolute !important;
+    width: 69px !important;
+    height: 15px !important;
+    left: 315px !important;
+    top: 2px !important;
+    margin: 10px !important;
+    
+     font-family: Arial, Helvetica, sans-serif !important;
+     font-style:unset !important;
+     font-weight: 700 !important;
+     font-size: 15px !important;
+     line-height: 30px !important;
+    color: #ffffff !important;
+}
+
+.fs-4 {
+position: absolute !important;
+width: 75px !important;
+height: 15px !important;
+left: 450px !important;
+top: 2px !important;
+margin: 10px !important;
+
+font-family: Arial, Helvetica, sans-serif !important;
+font-style:unset !important;
+font-weight: 700 !important;
+font-size: 15px !important;
+line-height: 30px !important;
+color: #ffffff !important;
+}
+
+.fs-5 {
+    position: absolute !important;
+    width: 58px !important;
+    height: 15px !important;
+    left: 591px !important;
+    top: 2px !important;
+    margin: 10px !important;
+
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-style:unset !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 30px !important;
+   color: #ffffff !important;
+}
+
+.fs-6 {
+    position: absolute !important;
+    width: 46px !important;
+    height: 15px !important;
+    left: 716px !important;
+    top: 2px !important;
+    margin: 10px !important;
+
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-style:unset !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 30px !important;
+   color: #ffffff !important;
+}
+    
+.log {
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left: 1185px;
+    top: 2px;
+    margin: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;    
+    
+    color: #ffffff;
+    
+}
+.daf {
+    position: absolute;
+    width: 49px;
+    height: 15px;
+    left: 1291px;
+    top: 2px;
+    margin: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #ffffff;
+    
+}
+.part1 {
+    position: absolute;
+    width: 371px;
+    height: 15px;
+    left: 108px;
+    top: 720px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+
+.part2 { 
+    position: absolute;
+width: 371px;
+height: 15px;
+left: 108px;
+top: 720px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+
+.bg-primary {
+    position: absolute !important;
+width: 106px !important;
+height: 26px !important;
+left: 100px !important;
+top: 760px !important;
+
+background: #0500FF !important;
+}
+.text {
+width: 93px;
+height: 15px;
+left: 108px;
+top: 500px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 10px;
+
+color: #ffffff;
+}
+.card-img {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 795px;
+}
+
+.card-text1 {
+    position: absolute;
+width: 206px;
+height: 30px;
+left: 321px;
+top: 795px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.card-img2 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 906px;
+    
+}
+.card-img3 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 1017px;
+}
+.card-img4 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 1128px;
+    
+}
+.card-img5 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 1239px;
+}
+.card-img6{
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 1350px;
+}
+.card-img7 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 100px;
+    top: 1461px;
+}
+.card-text2 {
+    position: absolute;
+    width: 210px;
+    height: 30px;
+    left: 321px;
+    top: 906px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-text3 {
+    position: absolute;
+    width: 201px;
+    height: 30px;
+    left: 321px;
+    top: 1017px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-text4 {
+    position: absolute;
+    width: 197px;
+    height: 30px;
+    left: 321px;
+    top: 1128px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-text5 {
+    position: absolute;
+    width: 187px;
+    height: 30px;
+    left: 321px;
+    top: 1239px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-text6 {
+    position: absolute;
+    width: 192px;
+    height: 30px;
+    left: 321px;
+    top: 1350px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-text7 {
+    position: absolute;
+    width: 198px;
+    height: 30px;
+    left: 321px;
+    top: 1461px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.IMG1 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 566px;
+    top: 795px;    
+    
+}
+.IMG2 {
+    position: absolute;
+width: 187px;
+height: 86px;
+left: 566px;
+top: 906px;
+}
+.IMG3 {
+    position: absolute;
+    width: 187px;
+    height: 86px;
+    left: 566px;
+    top: 1017px;  
+}
+.IMG4 {
+    position: absolute;
+width: 187px;
+height: 86px;
+left: 566px;
+top: 1128px;
+}
+.IMG5 {
+    position: absolute;
+width: 187px;
+height: 86px;
+left: 566px;
+top: 1239px;
+
+}
+.IMG6 {
+    position: absolute;
+width: 187px;
+height: 86px;
+left: 566px;
+top: 1350px;
+}
+.IMG7 {
+    position: absolute;
+width: 187px;
+height: 86px;
+left: 566px;
+top: 1461px;
+}
+.card-font1 {
+    position: absolute;
+    width: 212px;
+    height: 30px;
+    left: 787px;
+    top: 795px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-font2 {
+    position: absolute;
+    width: 227px;
+    height: 30px;
+    left: 787px;
+    top: 906px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-font3 {
+    position: absolute;
+    width: 194px;
+    height: 30px;
+    left: 787px;
+    top: 1017px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-font4 {
+    position: absolute;
+    width: 210px;
+    height: 30px;
+    left: 787px;
+    top: 1128px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-font5 {
+    position: absolute;
+    width: 192px;
+    height: 30px;
+    left: 787px;
+    top: 1239px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-font6 {
+    position: absolute;
+    width: 192px;
+    height: 30px;
+    left: 787px;
+    top: 1350px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+.card-font7 {
+    position: absolute;
+    width: 219px;
+    height: 30px;
+    left: 787px;
+    top: 1461px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+}
+
+.bg-warning {
+    position: absolute !important;
+width: 1440px !important;
+height: 360px !important;
+left: 0px !important;
+top: 1700px !important;
+
+background: #0500FF !important;
+}
